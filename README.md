@@ -7,7 +7,7 @@ if you have any questions or need further help, contact me by joining my [Discor
 - 🌱 I’m still a beginner, learning new stuff
 - 📫 [You can find me at my Discord Server](https://discord.gg/z7zP9qd)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ [Fun fact: Unbelievaboat gave me the motivation to create a custom Discord bot](https://unbelievaboat.com)
 
 ---
 
@@ -25,7 +25,7 @@ if you have any questions or need further help, contact me by joining my [Discor
 
 ---
 
-### Github Stats
+### GitHub Stats
 
 <div align ="center">
 <img src="https://metrics.lecoq.io/ItsHardLy?base.repositories=0&languages=1&isocalendar=1&followup=1">
